@@ -19,20 +19,20 @@ Beyond coding, I am a passionate writer. I apply this same creative rigor to str
 
 ## 🚀 Featured AI & Computer Vision Projects
 
-### 🔹 Object Detection Benchmark & Latency Profiling
+### 🔹 [Object Detection Benchmark & Latency Profiling](https://github.com/sharle4/Object-Detection-Benchmark)
 *Benchmarking and architectural optimization for real-time edge inference.*
 - Evaluated **21 object detectors** (YOLO, DETR, RT-DETR, Faster R-CNN) to analyze macro and micro impacts on performance.
 - Quantified latency-accuracy trade-offs of Winograd convolutions and various activation functions.
 - Currently designing a custom, optimized YOLO architecture targeting real-time inference.
 - **Tech Stack:** PyTorch, TensorRT, CUDA, YOLO, DETR.
 
-### 🔹 Self-Supervised Learning on Medical Imaging
+### 🔹 [Self-Supervised Learning on Medical Imaging](https://github.com/sharle4/SSL-on-Medical-Imaging)
 *Research on SSL superiority over supervised baselines in few-shot scenarios.*
 - Implemented **SimCLR, Barlow Twins, and DINO** from scratch on the PathMNIST dataset.
 - Demonstrated SSL effectiveness through linear probing, fine-tuning, and extensive ablation studies to quantify parameter contributions to downstream performance.
 - **Tech Stack:** PyTorch, Torchvision, Scikit-Learn.
 
-### 🔹 Image Dehazing and Atmospheric Scattering
+### 🔹 [Image Dehazing and Atmospheric Scattering](https://github.com/sharle4/haze-removal)
 *Classical Computer Vision approach to weather-degraded image restoration.*
 - Implemented the **Dark Channel Prior (DCP)** combined with Soft Matting and Guided Filters.
 - Engineered an adaptive auto-tuning parameter to prevent over-saturation and artifacts.
@@ -43,19 +43,22 @@ Beyond coding, I am a passionate writer. I apply this same creative rigor to str
 
 ## 📊 Data Engineering & NLP Projects
 
-### 🔹 Wikisource Scraper
+### 🔹 [Wikisource Scraper](https://github.com/sharle4/scriptorium)
 *A production-ready data engineering pipeline powering a global poetry platform.*
 - Built a dual-mode pipeline (async API + offline Wikimedia dump) to extract and structure poems at scale.
 - Implemented **Pydantic** validation and **SQLite** tracking for JSONL output and resumable batch processing.
 - Handled entity resolution and golden-record merging to generate a validated corpus of 100k+ verses.
 - **Tech Stack:** Python, asyncio, aiohttp, Pydantic, SQLite.
 
-### 🔹 WBC Kaggle Classification Challenge (Ranked 13/77)
+### 🔹 [WBC Kaggle Classification Challenge (Ranked 13/77)](https://github.com/sharle4/WBC-Kaggle-Classification-Challenge)
 *Classification of 13 White Blood Cell subtypes across 28k+ microscopy images.*
 - Engineered morphological features under strict ImageNet-pretraining constraints to prevent medical data leakage.
 - Blended XGBoost on 380 hand-crafted features with a 4-CNN ensemble (EfficientNet-B4, ResNet50).
 - **Tech Stack:** PyTorch, XGBoost, Pandas, OpenCV.
 
+#### 🔹 [AIoT based Neural Decoding and Neurofeedback](https://github.com/sharle4/AIoT-based-Neural-Decoding-and-Neurofeedback)
+- Engineered an ML pipeline for real-time EEG signal processing and cognitive state classification using Random Forest.
+- Deployed a secure full-stack web app enabling real-time EEG data visualization and neurofeedback monitoring.
 ---
 
 ## 🛠️ Core Skills
