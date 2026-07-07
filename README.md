@@ -6,7 +6,7 @@
 </p>
 
 ## 🎯 Objective
-**Seeking a 6-month gap-year internship in Computer Vision / Data Science — Available July 2026**
+**Seeking a 6-month gap-year internship in Computer Vision / Data Science — Available September 2026**
 
 ## ✨ About me
 I am an engineering student at **Télécom Paris** (Institut Polytechnique de Paris), pursuing a Double Major in **Data Science & Artificial Intelligence** and **Image, Modeling & Learning**. 
